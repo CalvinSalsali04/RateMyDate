@@ -41,4 +41,4 @@ cd ../client
 npm start
 
 
-http://localhost:3000
+#Should run on http://localhost:3000
