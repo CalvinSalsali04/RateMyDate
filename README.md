@@ -10,7 +10,7 @@ RateMyDate is a social platform developed to capture and rate memorable dating e
 
 ## Technologies
 
-- React.js for the front-end user interface
+- React.js and BootStrap CSS for the front-end user interface
 - Node.js and Express.js for the back-end server
 - MongoDB for the database
 - Redux for state management across the React app
