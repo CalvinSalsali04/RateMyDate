@@ -2,6 +2,9 @@
 
 RateMyDate is a social platform developed to capture and rate memorable dating experiences. Users can share stories, upload images, and assign ratings to their dates, creating an interactive and engaging community.
 
+![image](https://github.com/CalvinSalsali04/RateMyDate/assets/108155748/19a3e7a6-eb0b-4624-b317-6707836ed747)
+
+
 ## Features
 
 - Post and share date experiences with images
